@@ -21251,7 +21251,7 @@
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/MBA_997">
         <rdfs:subClassOf rdf:resource="UBERON:0002616"/>
         <oboInOwl:hasExactSynonym>root</oboInOwl:hasExactSynonym>
-        <rdfs:label>root</rdfs:label>
+        <rdfs:label>brain</rdfs:label>
     </owl:Class>
     
 

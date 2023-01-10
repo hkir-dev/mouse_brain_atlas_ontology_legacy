@@ -6,7 +6,7 @@ Prefix( xml: = <http://www.w3.org/XML/1998/namespace> )
 Prefix( UBERON: = <http://purl.obolibrary.org/obo/UBERON_> )
 
 Ontology( <http://purl.obolibrary.org/obo/ABA_Uberon>
-    AnnotationAssertion( rdfs:label <http://purl.obolibrary.org/obo/MBA_997> "root" )
+    AnnotationAssertion( rdfs:label <http://purl.obolibrary.org/obo/MBA_997> "brain" )
     AnnotationAssertion( <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/MBA_997> "root" )
     SubClassOf( <http://purl.obolibrary.org/obo/MBA_997> <UBERON:0002616> )
     AnnotationAssertion( rdfs:label <http://purl.obolibrary.org/obo/MBA_8> "Basic cell groups and regions" )
